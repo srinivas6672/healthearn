@@ -1,0 +1,79 @@
+body{
+   background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    url(veg.jpg);
+   background-image:no-repeat;
+   background-attachment: fixed;
+   background-size:100% 100%;
+   font-family:Arial,Sans-serif;
+   background-color:#C3DDDD;
+}
+header{
+      font-style:;
+      width:95%;
+      margin-left:auto;
+      margin-right:auto;
+      background-color:#66FC8C;
+      overflow:hidden;     
+      text-align:left;
+      padding:10px;
+}
+h2{
+   line-height:1px;
+   font-size:1em;
+  
+}
+hgroup{
+       width:70%;
+       float:left;
+}
+
+nav{
+       width:30%;
+       float:right;
+}
+nav li {
+     line-height:20px;
+      margin-right:5px;
+}
+nav li {
+    float:left;
+}
+nav li {
+      list-style-type:none;
+      font-family:Serif;
+      text-color:#F29706;
+}
+hgroup h2{
+   font-size:1em;
+
+}
+hgroup h1{
+   font-size:2em;
+
+}
+
+h3{
+   line-height:1px;
+   font-size:1.6em;
+}
+section{
+      color:purple;
+      width:95%;
+      margin-left:auto;
+      margin-right:auto;
+      border-width:10px;
+      border-style:solid;
+      border-color:#F6B808;
+      
+}
+
+footer{
+
+      width:95%;
+      margin-left:auto;
+      margin-right:auto;
+      background-color:#F6D062;
+      text-align:center;
+      padding:10px;
+
+}
